@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react-practice",
+  "version": "1.0.0",
+  "description": "Namaste-react-practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshad-hussain/Namaste-react-practice.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Harshad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshad-hussain/Namaste-react-practice/issues"
+  },
+  "homepage": "https://github.com/harshad-hussain/Namaste-react-practice#readme"
+}
