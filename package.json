@@ -19,8 +19,11 @@
     "url": "https://github.com/harshad-hussain/Namaste-react-practice/issues"
   },
   "homepage": "https://github.com/harshad-hussain/Namaste-react-practice#readme",
-
   "devDependencies": {
     "parcel": "^2.13.2"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
